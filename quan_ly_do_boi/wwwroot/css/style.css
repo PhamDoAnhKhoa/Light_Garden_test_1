@@ -1,0 +1,10 @@
+﻿modal-header{
+    text-align:center;
+    background-color:aqua;
+    font-size:medium;
+}
+
+item{
+    background-color:lightskyblue;
+    text-align:left;
+}
